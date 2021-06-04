@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rob-hcode
 - 👀 I’m interested in learning more about coding, and building on AWS
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on cloud migration, solution architecture and building on AWS
+- 💞️ I’m looking to collaborate on cloud migration, solution architecture and building on AWS.
 
 
 <!---
